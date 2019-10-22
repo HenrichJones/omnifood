@@ -109,3 +109,8 @@ header {
   float: right;
   list-style: none;
 }
+
+.main-nav li {
+  display: inline-block;
+  margin-left: 40px;
+}
