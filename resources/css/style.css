@@ -104,3 +104,8 @@ header {
   width: auto;
   float: left;
 }
+
+.main-nav {
+  float: right;
+  list-style: none;
+}
