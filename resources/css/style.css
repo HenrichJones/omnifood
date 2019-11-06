@@ -49,6 +49,17 @@ h2 {
   font-size: 180%;
   word-spacing: 2px;
   text-align: center;
+  margin: 30px;
+}
+
+h2:after {
+  display: block;
+  height: 2px;
+  background-color: #e67e22;
+  content: " ";
+  width: 100px;
+  margin: 0 auto;
+  margin-top: 30px;
 }
 
 section {
