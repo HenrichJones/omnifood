@@ -41,6 +41,10 @@ h1 {
   word-spacing: 4px;
 }
 
+section {
+  padding: 80px 0;
+}
+
 /* --------------------*/
 /* BUTTONS */
 /* --------------------*/
